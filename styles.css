@@ -7,14 +7,7 @@
 : {
   ;
  ;
-  --success: #A8E6CF;
-  --warning: #FFD93D;
-  --info: #6C63FF;
-  --light: #F8F9FA;
-  --dark: #2D3047;
-  --gray: #6C757D;
-  
-  --white: #FFFFFF;
+ ;
   --card-shadow: 0 8px 25px rgba(255, 77, 128, 0.15);
   --transition: all 0.3s ease;
   --body-bg: #0F0F1B;
