@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-:root {
+: {
   --primary: #FF4D80;
   --secondary: #00C9B1;
   --success: #A8E6CF;
